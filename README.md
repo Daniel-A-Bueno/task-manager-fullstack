@@ -21,10 +21,6 @@ Aplicação fullstack para gerenciamento de tarefas.
 - Atualizar tarefas
 - Deletar tarefas
 
-## 📸 Preview
-
-(Coloque aqui um print do sistema)
-
 ## 🚀 Como rodar
 
 ### Backend
